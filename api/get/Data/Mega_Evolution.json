@@ -1,0 +1,4070 @@
+{
+    "data": [
+        {
+            "id": "68d7454cb16060afad13e0da",
+            "tcgPlayerId": "654527",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Lucario ex - 188/132",
+            "cardNumber": "188",
+            "totalSetNumber": "132",
+            "rarity": "Holo Rare",
+            "cardType": "Fighting",
+            "hp": 340,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "F"
+                    ],
+                    "name": "Aura Jab",
+                    "damage": "130",
+                    "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokemon in any way you like."
+                },
+                {
+                    "cost": [
+                        "F",
+                        "F"
+                    ],
+                    "name": "Mega Brave",
+                    "damage": "270",
+                    "text": "During your next turn, this Pokemon can't use Mega Brave."
+                }
+            ],
+            "weakness": {
+                "type": "Px",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654527/pokemon-me01-mega-evolution-mega-lucario-ex---188-132",
+            "prices": {
+                "market": 542.63,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 542.63,
+                        "listings": 104,
+                        "priceString": "$542.63"
+                    },
+                    "Lightly Played": {
+                        "price": 509.85,
+                        "listings": 10,
+                        "priceString": "$509.85"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 542.63,
+                            "listings": 104,
+                            "priceString": "$542.63"
+                        },
+                        "Lightly Played": {
+                            "price": 509.85,
+                            "listings": 10,
+                            "priceString": "$509.85"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:11.189Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654527_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:11.189Z",
+            "createdAt": "2025-09-27T02:00:44.852Z",
+            "updatedAt": "2025-10-29T04:44:11.261Z"
+        },
+        {
+            "id": "68d7454cb16060afad13e0dd",
+            "tcgPlayerId": "654525",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Wally's Compassion - 186/132",
+            "cardNumber": "186",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654525/pokemon-me01-mega-evolution-wally-s-compassion---186-132",
+            "prices": {
+                "market": 26.16,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 26.16,
+                        "listings": 254,
+                        "priceString": "$26.16"
+                    },
+                    "Lightly Played": {
+                        "price": 25.94,
+                        "listings": 13,
+                        "priceString": "$25.94"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 26.16,
+                            "listings": 254,
+                            "priceString": "$26.16"
+                        },
+                        "Lightly Played": {
+                            "price": 25.94,
+                            "listings": 13,
+                            "priceString": "$25.94"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:15.882Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654525_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:15.882Z",
+            "createdAt": "2025-09-27T02:00:44.913Z",
+            "updatedAt": "2025-10-29T04:44:15.950Z"
+        },
+        {
+            "id": "68d7454cb16060afad13e0e0",
+            "tcgPlayerId": "654524",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Lt. Surge's Bargain - 185/132",
+            "cardNumber": "185",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654524/pokemon-me01-mega-evolution-lt-surge-s-bargain---185-132",
+            "prices": {
+                "market": 28.11,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 28.11,
+                        "listings": 259,
+                        "priceString": "$28.11"
+                    },
+                    "Lightly Played": {
+                        "price": 32.39,
+                        "listings": 12,
+                        "priceString": "$32.39"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 28.11,
+                            "listings": 259,
+                            "priceString": "$28.11"
+                        },
+                        "Lightly Played": {
+                            "price": 32.39,
+                            "listings": 12,
+                            "priceString": "$32.39"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:19.593Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654524_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:19.593Z",
+            "createdAt": "2025-09-27T02:00:44.957Z",
+            "updatedAt": "2025-10-29T04:44:19.664Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0e3",
+            "tcgPlayerId": "654523",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Lillie's Determination - 184/132",
+            "cardNumber": "184",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654523/pokemon-me01-mega-evolution-lillie-s-determination---184-132",
+            "prices": {
+                "market": 143.75,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Lightly Played": {
+                        "price": 155.35,
+                        "listings": 20,
+                        "priceString": "$155.35"
+                    },
+                    "Near Mint": {
+                        "price": 143.75,
+                        "listings": 260,
+                        "priceString": "$143.75"
+                    },
+                    "Damaged": {
+                        "price": 135.5,
+                        "listings": 1,
+                        "priceString": "$135.50"
+                    },
+                    "Moderately Played": {
+                        "price": 146.14,
+                        "listings": 3,
+                        "priceString": "$146.14"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Lightly Played": {
+                            "price": 155.35,
+                            "listings": 20,
+                            "priceString": "$155.35"
+                        },
+                        "Near Mint": {
+                            "price": 143.75,
+                            "listings": 260,
+                            "priceString": "$143.75"
+                        },
+                        "Damaged": {
+                            "price": 135.5,
+                            "listings": 1,
+                            "priceString": "$135.50"
+                        },
+                        "Moderately Played": {
+                            "price": 146.14,
+                            "listings": 3,
+                            "priceString": "$146.14"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:24.356Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654523_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:24.356Z",
+            "createdAt": "2025-09-27T02:00:45.001Z",
+            "updatedAt": "2025-10-29T04:44:24.432Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0e6",
+            "tcgPlayerId": "654522",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Acerola's Mischief - 183/132",
+            "cardNumber": "183",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654522/pokemon-me01-mega-evolution-acerola-s-mischief---183-132",
+            "prices": {
+                "market": 44.86,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 44.86,
+                        "listings": 266,
+                        "priceString": "$44.86"
+                    },
+                    "Lightly Played": {
+                        "price": 49.45,
+                        "listings": 7,
+                        "priceString": "$49.45"
+                    },
+                    "Moderately Played": {
+                        "price": 48,
+                        "listings": 1,
+                        "priceString": "$48.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 44.86,
+                            "listings": 266,
+                            "priceString": "$44.86"
+                        },
+                        "Lightly Played": {
+                            "price": 49.45,
+                            "listings": 7,
+                            "priceString": "$49.45"
+                        },
+                        "Moderately Played": {
+                            "price": 48,
+                            "listings": 1,
+                            "priceString": "$48.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:27.768Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654522_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:27.768Z",
+            "createdAt": "2025-09-27T02:00:45.046Z",
+            "updatedAt": "2025-10-29T04:44:27.848Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0e9",
+            "tcgPlayerId": "654521",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Kangaskhan ex - 182/132",
+            "cardNumber": "182",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Colorless",
+            "hp": 300,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C",
+                        "C",
+                        "C"
+                    ],
+                    "name": "Rapid-Fire Combo",
+                    "damage": "200+",
+                    "text": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 3,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654521/pokemon-me01-mega-evolution-mega-kangaskhan-ex---182-132",
+            "prices": {
+                "market": 87.06,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 87.06,
+                        "listings": 221,
+                        "priceString": "$87.06"
+                    },
+                    "Lightly Played": {
+                        "price": 84.78,
+                        "listings": 14,
+                        "priceString": "$84.78"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 87.06,
+                            "listings": 221,
+                            "priceString": "$87.06"
+                        },
+                        "Lightly Played": {
+                            "price": 84.78,
+                            "listings": 14,
+                            "priceString": "$84.78"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:32.089Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654521_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:32.089Z",
+            "createdAt": "2025-09-27T02:00:45.091Z",
+            "updatedAt": "2025-10-29T04:44:32.160Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0ec",
+            "tcgPlayerId": "654520",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Latias ex - 181/132",
+            "cardNumber": "181",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Dragon",
+            "hp": 280,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Strafe",
+                    "damage": "40",
+                    "text": "You may switch this Pokemon with 1 of your Benched Pokemon."
+                },
+                {
+                    "cost": [
+                        "R",
+                        "P",
+                        "C"
+                    ],
+                    "name": "Illusory Impulse",
+                    "damage": "300",
+                    "text": "Discard all Energy from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654520/pokemon-me01-mega-evolution-mega-latias-ex---181-132",
+            "prices": {
+                "market": 151.64,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 151.64,
+                        "listings": 157,
+                        "priceString": "$151.64"
+                    },
+                    "Lightly Played": {
+                        "price": 160.43,
+                        "listings": 16,
+                        "priceString": "$160.43"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 151.64,
+                            "listings": 157,
+                            "priceString": "$151.64"
+                        },
+                        "Lightly Played": {
+                            "price": 160.43,
+                            "listings": 16,
+                            "priceString": "$160.43"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:35.691Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654520_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:35.691Z",
+            "createdAt": "2025-09-27T02:00:45.133Z",
+            "updatedAt": "2025-10-29T04:44:35.765Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0ef",
+            "tcgPlayerId": "654519",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Absol ex - 180/132",
+            "cardNumber": "180",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Darkness",
+            "hp": 280,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "D",
+                        "D",
+                        "C"
+                    ],
+                    "name": "Claw of Darkness",
+                    "damage": "200",
+                    "text": "Your opponent reveals their hand, and you discard a card you find there."
+                }
+            ],
+            "weakness": {
+                "type": "Gx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654519/pokemon-me01-mega-evolution-mega-absol-ex---180-132",
+            "prices": {
+                "market": 97.82,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 97.82,
+                        "listings": 199,
+                        "priceString": "$97.82"
+                    },
+                    "Lightly Played": {
+                        "price": 93.4,
+                        "listings": 6,
+                        "priceString": "$93.40"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 97.82,
+                            "listings": 199,
+                            "priceString": "$97.82"
+                        },
+                        "Lightly Played": {
+                            "price": 93.4,
+                            "listings": 6,
+                            "priceString": "$93.40"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:39.495Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654519_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:39.495Z",
+            "createdAt": "2025-09-27T02:00:45.177Z",
+            "updatedAt": "2025-10-29T04:44:39.566Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0f2",
+            "tcgPlayerId": "654518",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Lucario ex - 179/132",
+            "cardNumber": "179",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Fighting",
+            "hp": 340,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "F"
+                    ],
+                    "name": "Aura Jab",
+                    "damage": "130",
+                    "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokemon in any way you like."
+                },
+                {
+                    "cost": [
+                        "F",
+                        "F"
+                    ],
+                    "name": "Mega Brave",
+                    "damage": "270",
+                    "text": "During your next turn, this Pokemon can't use Mega Brave."
+                }
+            ],
+            "weakness": {
+                "type": "Px",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654518/pokemon-me01-mega-evolution-mega-lucario-ex---179-132",
+            "prices": {
+                "market": 279.43,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 279.43,
+                        "listings": 127,
+                        "priceString": "$279.43"
+                    },
+                    "Lightly Played": {
+                        "price": 255.9,
+                        "listings": 13,
+                        "priceString": "$255.90"
+                    },
+                    "Moderately Played": {
+                        "price": 245,
+                        "listings": 1,
+                        "priceString": "$245.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 279.43,
+                            "listings": 127,
+                            "priceString": "$279.43"
+                        },
+                        "Lightly Played": {
+                            "price": 255.9,
+                            "listings": 13,
+                            "priceString": "$255.90"
+                        },
+                        "Moderately Played": {
+                            "price": 245,
+                            "listings": 1,
+                            "priceString": "$245.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:43.365Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654518_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:43.365Z",
+            "createdAt": "2025-09-27T02:00:45.214Z",
+            "updatedAt": "2025-10-29T04:44:43.433Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0f5",
+            "tcgPlayerId": "654517",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Gardevoir ex - 178/132",
+            "cardNumber": "178",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Psychic",
+            "hp": 360,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "P"
+                    ],
+                    "name": "Mega Symphonia",
+                    "damage": "50x",
+                    "text": "This attack does 50 damage for each Psychic Energy attached to all of your Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Dx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654517/pokemon-me01-mega-evolution-mega-gardevoir-ex---178-132",
+            "prices": {
+                "market": 264.49,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 264.49,
+                        "listings": 162,
+                        "priceString": "$264.49"
+                    },
+                    "Lightly Played": {
+                        "price": 272.04,
+                        "listings": 7,
+                        "priceString": "$272.04"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 264.49,
+                            "listings": 162,
+                            "priceString": "$264.49"
+                        },
+                        "Lightly Played": {
+                            "price": 272.04,
+                            "listings": 7,
+                            "priceString": "$272.04"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:49.850Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654517_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:49.850Z",
+            "createdAt": "2025-09-27T02:00:45.254Z",
+            "updatedAt": "2025-10-29T04:44:49.919Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0f8",
+            "tcgPlayerId": "654516",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Venusaur ex - 177/132",
+            "cardNumber": "177",
+            "totalSetNumber": "132",
+            "rarity": "Special Illustration Rare",
+            "cardType": "Grass",
+            "hp": 380,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "G",
+                        "G",
+                        "G",
+                        "G"
+                    ],
+                    "name": "Jungle Dump",
+                    "damage": "240",
+                    "text": "Heal 30 damage from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Rx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654516/pokemon-me01-mega-evolution-mega-venusaur-ex---177-132",
+            "prices": {
+                "market": 194.62,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 194.62,
+                        "listings": 150,
+                        "priceString": "$194.62"
+                    },
+                    "Damaged": {
+                        "price": 100,
+                        "listings": 1,
+                        "priceString": "$100.00"
+                    },
+                    "Lightly Played": {
+                        "price": 196.3,
+                        "listings": 8,
+                        "priceString": "$196.30"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 194.62,
+                            "listings": 150,
+                            "priceString": "$194.62"
+                        },
+                        "Damaged": {
+                            "price": 100,
+                            "listings": 1,
+                            "priceString": "$100.00"
+                        },
+                        "Lightly Played": {
+                            "price": 196.3,
+                            "listings": 8,
+                            "priceString": "$196.30"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:54.827Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654516_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:54.827Z",
+            "createdAt": "2025-09-27T02:00:45.295Z",
+            "updatedAt": "2025-10-29T04:44:54.896Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0fb",
+            "tcgPlayerId": "654515",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Wally's Compassion - 176/132",
+            "cardNumber": "176",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654515/pokemon-me01-mega-evolution-wally-s-compassion---176-132",
+            "prices": {
+                "market": 1.87,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 1.87,
+                        "listings": 804,
+                        "priceString": "$1.87"
+                    },
+                    "Lightly Played": {
+                        "price": 2.68,
+                        "listings": 33,
+                        "priceString": "$2.68"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 1.87,
+                            "listings": 804,
+                            "priceString": "$1.87"
+                        },
+                        "Lightly Played": {
+                            "price": 2.68,
+                            "listings": 33,
+                            "priceString": "$2.68"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T15:23:56.390Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654515_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T15:23:56.390Z",
+            "createdAt": "2025-09-27T02:00:45.342Z",
+            "updatedAt": "2025-10-29T15:23:56.464Z"
+        },
+        {
+            "id": "68d7454db16060afad13e0fe",
+            "tcgPlayerId": "654514",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Rare Candy - 175/132",
+            "cardNumber": "175",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654514/pokemon-me01-mega-evolution-rare-candy---175-132",
+            "prices": {
+                "market": 4.62,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 4.62,
+                        "listings": 976,
+                        "priceString": "$4.62"
+                    },
+                    "Lightly Played": {
+                        "price": 6.16,
+                        "listings": 36,
+                        "priceString": "$6.16"
+                    },
+                    "Heavily Played": {
+                        "price": 5,
+                        "listings": 1,
+                        "priceString": "$5.00"
+                    },
+                    "Moderately Played": {
+                        "price": 5.77,
+                        "listings": 2,
+                        "priceString": "$5.77"
+                    },
+                    "Damaged": {
+                        "price": 3,
+                        "listings": 1,
+                        "priceString": "$3.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 4.62,
+                            "listings": 976,
+                            "priceString": "$4.62"
+                        },
+                        "Lightly Played": {
+                            "price": 6.16,
+                            "listings": 36,
+                            "priceString": "$6.16"
+                        },
+                        "Heavily Played": {
+                            "price": 5,
+                            "listings": 1,
+                            "priceString": "$5.00"
+                        },
+                        "Moderately Played": {
+                            "price": 5.77,
+                            "listings": 2,
+                            "priceString": "$5.77"
+                        },
+                        "Damaged": {
+                            "price": 3,
+                            "listings": 1,
+                            "priceString": "$3.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T15:24:01.541Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654514_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T15:24:01.541Z",
+            "createdAt": "2025-09-27T02:00:45.380Z",
+            "updatedAt": "2025-10-29T15:24:01.615Z"
+        },
+        {
+            "id": "68d7454db16060afad13e101",
+            "tcgPlayerId": "654513",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Premium Power Pro - 174/132",
+            "cardNumber": "174",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654513/pokemon-me01-mega-evolution-premium-power-pro---174-132",
+            "prices": {
+                "market": 3.51,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.51,
+                        "listings": 987,
+                        "priceString": "$3.51"
+                    },
+                    "Lightly Played": {
+                        "price": 4.25,
+                        "listings": 50,
+                        "priceString": "$4.25"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.51,
+                            "listings": 987,
+                            "priceString": "$3.51"
+                        },
+                        "Lightly Played": {
+                            "price": 4.25,
+                            "listings": 50,
+                            "priceString": "$4.25"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T15:24:06.489Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654513_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T15:24:06.489Z",
+            "createdAt": "2025-09-27T02:00:45.427Z",
+            "updatedAt": "2025-10-29T15:24:06.566Z"
+        },
+        {
+            "id": "68d7454db16060afad13e104",
+            "tcgPlayerId": "654512",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Night Stretcher",
+            "cardNumber": "173",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654512/pokemon-me01-mega-evolution-night-stretcher",
+            "prices": {
+                "market": 6.14,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 6.14,
+                        "listings": 1583,
+                        "priceString": "$6.14"
+                    },
+                    "Damaged": {
+                        "price": 6.5,
+                        "listings": 2,
+                        "priceString": "$6.50"
+                    },
+                    "Heavily Played": {
+                        "price": 8.99,
+                        "listings": 0,
+                        "priceString": "$8.99"
+                    },
+                    "Lightly Played": {
+                        "price": 7.67,
+                        "listings": 56,
+                        "priceString": "$7.67"
+                    },
+                    "Moderately Played": {
+                        "price": 6.28,
+                        "listings": 2,
+                        "priceString": "$6.28"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 6.14,
+                            "listings": 1583,
+                            "priceString": "$6.14"
+                        },
+                        "Damaged": {
+                            "price": 6.5,
+                            "listings": 2,
+                            "priceString": "$6.50"
+                        },
+                        "Heavily Played": {
+                            "price": 8.99,
+                            "listings": 0,
+                            "priceString": "$8.99"
+                        },
+                        "Lightly Played": {
+                            "price": 7.67,
+                            "listings": 56,
+                            "priceString": "$7.67"
+                        },
+                        "Moderately Played": {
+                            "price": 6.28,
+                            "listings": 2,
+                            "priceString": "$6.28"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T15:24:10.816Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654512_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T15:24:10.816Z",
+            "createdAt": "2025-09-27T02:00:45.471Z",
+            "updatedAt": "2025-10-29T15:24:10.897Z"
+        },
+        {
+            "id": "68d7454db16060afad13e107",
+            "tcgPlayerId": "654511",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mystery Garden - 172/132",
+            "cardNumber": "172",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Stadium",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654511/pokemon-me01-mega-evolution-mystery-garden---172-132",
+            "prices": {
+                "market": 2.96,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.96,
+                        "listings": 793,
+                        "priceString": "$2.96"
+                    },
+                    "Lightly Played": {
+                        "price": 5.08,
+                        "listings": 27,
+                        "priceString": "$5.08"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.96,
+                            "listings": 793,
+                            "priceString": "$2.96"
+                        },
+                        "Lightly Played": {
+                            "price": 5.08,
+                            "listings": 27,
+                            "priceString": "$5.08"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:44:58.909Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654511_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:44:58.909Z",
+            "createdAt": "2025-09-27T02:00:45.513Z",
+            "updatedAt": "2025-10-29T04:44:58.981Z"
+        },
+        {
+            "id": "68d7454db16060afad13e10a",
+            "tcgPlayerId": "654510",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Signal - 171/132",
+            "cardNumber": "171",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654510/pokemon-me01-mega-evolution-mega-signal---171-132",
+            "prices": {
+                "market": 2.27,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.27,
+                        "listings": 912,
+                        "priceString": "$2.27"
+                    },
+                    "Lightly Played": {
+                        "price": 4.24,
+                        "listings": 11,
+                        "priceString": "$4.24"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.27,
+                            "listings": 912,
+                            "priceString": "$2.27"
+                        },
+                        "Lightly Played": {
+                            "price": 4.24,
+                            "listings": 11,
+                            "priceString": "$4.24"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:05.491Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654510_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:05.491Z",
+            "createdAt": "2025-09-27T02:00:45.555Z",
+            "updatedAt": "2025-10-29T04:45:05.561Z"
+        },
+        {
+            "id": "68d7454db16060afad13e10d",
+            "tcgPlayerId": "654509",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Lt. Surge's Bargain - 170/132",
+            "cardNumber": "170",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654509/pokemon-me01-mega-evolution-lt-surge-s-bargain---170-132",
+            "prices": {
+                "market": 1.9,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 1.9,
+                        "listings": 773,
+                        "priceString": "$1.90"
+                    },
+                    "Lightly Played": {
+                        "price": 2.54,
+                        "listings": 25,
+                        "priceString": "$2.54"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 1.9,
+                            "listings": 773,
+                            "priceString": "$1.90"
+                        },
+                        "Lightly Played": {
+                            "price": 2.54,
+                            "listings": 25,
+                            "priceString": "$2.54"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:09.383Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654509_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:09.383Z",
+            "createdAt": "2025-09-27T02:00:45.598Z",
+            "updatedAt": "2025-10-29T04:45:09.456Z"
+        },
+        {
+            "id": "68d7454db16060afad13e110",
+            "tcgPlayerId": "654508",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Lillie's Determination - 169/132",
+            "cardNumber": "169",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654508/pokemon-me01-mega-evolution-lillie-s-determination---169-132",
+            "prices": {
+                "market": 26.88,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 26.88,
+                        "listings": 1029,
+                        "priceString": "$26.88"
+                    },
+                    "Lightly Played": {
+                        "price": 32.08,
+                        "listings": 59,
+                        "priceString": "$32.08"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 26.88,
+                            "listings": 1029,
+                            "priceString": "$26.88"
+                        },
+                        "Lightly Played": {
+                            "price": 32.08,
+                            "listings": 59,
+                            "priceString": "$32.08"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:15.096Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654508_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:15.096Z",
+            "createdAt": "2025-09-27T02:00:45.635Z",
+            "updatedAt": "2025-10-29T04:45:15.166Z"
+        },
+        {
+            "id": "68d7454db16060afad13e113",
+            "tcgPlayerId": "654507",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Fighting Gong - 168/132",
+            "cardNumber": "168",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654507/pokemon-me01-mega-evolution-fighting-gong---168-132",
+            "prices": {
+                "market": 4.25,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 4.25,
+                        "listings": 1229,
+                        "priceString": "$4.25"
+                    },
+                    "Lightly Played": {
+                        "price": 5.21,
+                        "listings": 38,
+                        "priceString": "$5.21"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 4.25,
+                            "listings": 1229,
+                            "priceString": "$4.25"
+                        },
+                        "Lightly Played": {
+                            "price": 5.21,
+                            "listings": 38,
+                            "priceString": "$5.21"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:19.761Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654507_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:19.761Z",
+            "createdAt": "2025-09-27T02:00:45.673Z",
+            "updatedAt": "2025-10-29T04:45:19.832Z"
+        },
+        {
+            "id": "68d7454db16060afad13e116",
+            "tcgPlayerId": "654506",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Buddy-Buddy Poffin",
+            "cardNumber": "167",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Item",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654506/pokemon-me01-mega-evolution-buddy-buddy-poffin",
+            "prices": {
+                "market": 5.85,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 5.85,
+                        "listings": 1186,
+                        "priceString": "$5.85"
+                    },
+                    "Lightly Played": {
+                        "price": 7.42,
+                        "listings": 42,
+                        "priceString": "$7.42"
+                    },
+                    "Damaged": {
+                        "price": 3,
+                        "listings": 2,
+                        "priceString": "$3.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 5.85,
+                            "listings": 1186,
+                            "priceString": "$5.85"
+                        },
+                        "Lightly Played": {
+                            "price": 7.42,
+                            "listings": 42,
+                            "priceString": "$7.42"
+                        },
+                        "Damaged": {
+                            "price": 3,
+                            "listings": 2,
+                            "priceString": "$3.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:23.153Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654506_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:23.153Z",
+            "createdAt": "2025-09-27T02:00:45.713Z",
+            "updatedAt": "2025-10-29T04:45:23.224Z"
+        },
+        {
+            "id": "68d7454db16060afad13e119",
+            "tcgPlayerId": "654505",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Air Balloon",
+            "cardNumber": "166",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Pokemon Tool",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654505/pokemon-me01-mega-evolution-air-balloon",
+            "prices": {
+                "market": 3.94,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.94,
+                        "listings": 1102,
+                        "priceString": "$3.94"
+                    },
+                    "Lightly Played": {
+                        "price": 6.11,
+                        "listings": 36,
+                        "priceString": "$6.11"
+                    },
+                    "Moderately Played": {
+                        "price": 2.99,
+                        "listings": 1,
+                        "priceString": "$2.99"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.94,
+                            "listings": 1102,
+                            "priceString": "$3.94"
+                        },
+                        "Lightly Played": {
+                            "price": 6.11,
+                            "listings": 36,
+                            "priceString": "$6.11"
+                        },
+                        "Moderately Played": {
+                            "price": 2.99,
+                            "listings": 1,
+                            "priceString": "$2.99"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:27.428Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654505_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:27.428Z",
+            "createdAt": "2025-09-27T02:00:45.756Z",
+            "updatedAt": "2025-10-29T04:45:27.497Z"
+        },
+        {
+            "id": "68d7454db16060afad13e11c",
+            "tcgPlayerId": "654504",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Acerola's Mischief - 165/132",
+            "cardNumber": "165",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Trainer - Supporter",
+            "hp": null,
+            "stage": null,
+            "attacks": [],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654504/pokemon-me01-mega-evolution-acerola-s-mischief---165-132",
+            "prices": {
+                "market": 4.5,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 4.5,
+                        "listings": 850,
+                        "priceString": "$4.50"
+                    },
+                    "Lightly Played": {
+                        "price": 5.1,
+                        "listings": 37,
+                        "priceString": "$5.10"
+                    },
+                    "Damaged": {
+                        "price": 3.99,
+                        "listings": 1,
+                        "priceString": "$3.99"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 4.5,
+                            "listings": 850,
+                            "priceString": "$4.50"
+                        },
+                        "Lightly Played": {
+                            "price": 5.1,
+                            "listings": 37,
+                            "priceString": "$5.10"
+                        },
+                        "Damaged": {
+                            "price": 3.99,
+                            "listings": 1,
+                            "priceString": "$3.99"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:32.082Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654504_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:32.082Z",
+            "createdAt": "2025-09-27T02:00:45.799Z",
+            "updatedAt": "2025-10-29T04:45:32.154Z"
+        },
+        {
+            "id": "68d7454db16060afad13e11f",
+            "tcgPlayerId": "654503",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Kangaskhan ex - 164/132",
+            "cardNumber": "164",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Colorless",
+            "hp": 300,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C",
+                        "C",
+                        "C"
+                    ],
+                    "name": "Rapid-Fire Combo",
+                    "damage": "200+",
+                    "text": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 3,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654503/pokemon-me01-mega-evolution-mega-kangaskhan-ex---164-132",
+            "prices": {
+                "market": 8.27,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 8.27,
+                        "listings": 964,
+                        "priceString": "$8.27"
+                    },
+                    "Lightly Played": {
+                        "price": 9.11,
+                        "listings": 32,
+                        "priceString": "$9.11"
+                    },
+                    "Moderately Played": {
+                        "price": 14.99,
+                        "listings": 1,
+                        "priceString": "$14.99"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 8.27,
+                            "listings": 964,
+                            "priceString": "$8.27"
+                        },
+                        "Lightly Played": {
+                            "price": 9.11,
+                            "listings": 32,
+                            "priceString": "$9.11"
+                        },
+                        "Moderately Played": {
+                            "price": 14.99,
+                            "listings": 1,
+                            "priceString": "$14.99"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:37.025Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654503_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:37.025Z",
+            "createdAt": "2025-09-27T02:00:45.836Z",
+            "updatedAt": "2025-10-29T04:45:37.096Z"
+        },
+        {
+            "id": "68d7454db16060afad13e122",
+            "tcgPlayerId": "654502",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Latias ex - 163/132",
+            "cardNumber": "163",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Dragon",
+            "hp": 280,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Strafe",
+                    "damage": "40",
+                    "text": "You may switch this Pokemon with 1 of your Benched Pokemon."
+                },
+                {
+                    "cost": [
+                        "R",
+                        "P",
+                        "C"
+                    ],
+                    "name": "Illusory Impulse",
+                    "damage": "300",
+                    "text": "Discard all Energy from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": null,
+                "value": null
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654502/pokemon-me01-mega-evolution-mega-latias-ex---163-132",
+            "prices": {
+                "market": 8.47,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 8.47,
+                        "listings": 1001,
+                        "priceString": "$8.47"
+                    },
+                    "Lightly Played": {
+                        "price": 11.07,
+                        "listings": 29,
+                        "priceString": "$11.07"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 8.47,
+                            "listings": 1001,
+                            "priceString": "$8.47"
+                        },
+                        "Lightly Played": {
+                            "price": 11.07,
+                            "listings": 29,
+                            "priceString": "$11.07"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:41.024Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654502_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:41.024Z",
+            "createdAt": "2025-09-27T02:00:45.873Z",
+            "updatedAt": "2025-10-29T04:45:41.097Z"
+        },
+        {
+            "id": "68d7454db16060afad13e125",
+            "tcgPlayerId": "654501",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Mawile ex - 162/132",
+            "cardNumber": "162",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Metal",
+            "hp": 270,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "M",
+                        "M"
+                    ],
+                    "name": "Gobble Down",
+                    "damage": "80x",
+                    "text": "This attack does 80 damage for each Prize card you have taken."
+                },
+                {
+                    "cost": [
+                        "M",
+                        "M",
+                        "C"
+                    ],
+                    "name": "Huge Bite",
+                    "damage": "260",
+                    "text": "If your opponent's Active Pokemon already has any damage counters on it, this attack's base damage is 30."
+                }
+            ],
+            "weakness": {
+                "type": "Rx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "G",
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654501/pokemon-me01-mega-evolution-mega-mawile-ex---162-132",
+            "prices": {
+                "market": 4.33,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 4.33,
+                        "listings": 1007,
+                        "priceString": "$4.33"
+                    },
+                    "Lightly Played": {
+                        "price": 5.03,
+                        "listings": 33,
+                        "priceString": "$5.03"
+                    },
+                    "Damaged": {
+                        "price": 3.75,
+                        "listings": 1,
+                        "priceString": "$3.75"
+                    },
+                    "Heavily Played": {
+                        "price": 4.94,
+                        "listings": 1,
+                        "priceString": "$4.94"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 4.33,
+                            "listings": 1007,
+                            "priceString": "$4.33"
+                        },
+                        "Lightly Played": {
+                            "price": 5.03,
+                            "listings": 33,
+                            "priceString": "$5.03"
+                        },
+                        "Damaged": {
+                            "price": 3.75,
+                            "listings": 1,
+                            "priceString": "$3.75"
+                        },
+                        "Heavily Played": {
+                            "price": 4.94,
+                            "listings": 1,
+                            "priceString": "$4.94"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:46.888Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654501_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:46.888Z",
+            "createdAt": "2025-09-27T02:00:45.912Z",
+            "updatedAt": "2025-10-29T04:45:46.958Z"
+        },
+        {
+            "id": "68d7454db16060afad13e128",
+            "tcgPlayerId": "654500",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Absol ex - 161/132",
+            "cardNumber": "161",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Darkness",
+            "hp": 280,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "D",
+                        "D",
+                        "C"
+                    ],
+                    "name": "Claw of Darkness",
+                    "damage": "200",
+                    "text": "Your opponent reveals their hand, and you discard a card you find there."
+                }
+            ],
+            "weakness": {
+                "type": "Gx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654500/pokemon-me01-mega-evolution-mega-absol-ex---161-132",
+            "prices": {
+                "market": 9.13,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 9.13,
+                        "listings": 980,
+                        "priceString": "$9.13"
+                    },
+                    "Lightly Played": {
+                        "price": 11.94,
+                        "listings": 63,
+                        "priceString": "$11.94"
+                    },
+                    "Moderately Played": {
+                        "price": 8.49,
+                        "listings": 3,
+                        "priceString": "$8.49"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 9.13,
+                            "listings": 980,
+                            "priceString": "$9.13"
+                        },
+                        "Lightly Played": {
+                            "price": 11.94,
+                            "listings": 63,
+                            "priceString": "$11.94"
+                        },
+                        "Moderately Played": {
+                            "price": 8.49,
+                            "listings": 3,
+                            "priceString": "$8.49"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:51.543Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654500_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:51.543Z",
+            "createdAt": "2025-09-27T02:00:45.953Z",
+            "updatedAt": "2025-10-29T04:45:51.619Z"
+        },
+        {
+            "id": "68d7454db16060afad13e12b",
+            "tcgPlayerId": "654499",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Lucario ex - 160/132",
+            "cardNumber": "160",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Fighting",
+            "hp": 340,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "F"
+                    ],
+                    "name": "Aura Jab",
+                    "damage": "130",
+                    "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokemon in any way you like."
+                },
+                {
+                    "cost": [
+                        "F",
+                        "F"
+                    ],
+                    "name": "Mega Brave",
+                    "damage": "270",
+                    "text": "During your next turn, this Pokemon can't use Mega Brave."
+                }
+            ],
+            "weakness": {
+                "type": "Px",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654499/pokemon-me01-mega-evolution-mega-lucario-ex---160-132",
+            "prices": {
+                "market": 17.6,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 17.6,
+                        "listings": 844,
+                        "priceString": "$17.60"
+                    },
+                    "Lightly Played": {
+                        "price": 20.27,
+                        "listings": 63,
+                        "priceString": "$20.27"
+                    },
+                    "Damaged": {
+                        "price": 18.5,
+                        "listings": 1,
+                        "priceString": "$18.50"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 17.6,
+                            "listings": 844,
+                            "priceString": "$17.60"
+                        },
+                        "Lightly Played": {
+                            "price": 20.27,
+                            "listings": 63,
+                            "priceString": "$20.27"
+                        },
+                        "Damaged": {
+                            "price": 18.5,
+                            "listings": 1,
+                            "priceString": "$18.50"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:45:56.001Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654499_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:45:56.001Z",
+            "createdAt": "2025-09-27T02:00:45.993Z",
+            "updatedAt": "2025-10-29T04:45:56.069Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e12e",
+            "tcgPlayerId": "654498",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Gardevoir ex - 159/132",
+            "cardNumber": "159",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Psychic",
+            "hp": 360,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "P"
+                    ],
+                    "name": "Mega Symphonia",
+                    "damage": "50x",
+                    "text": "This attack does 50 damage for each Psychic Energy attached to all of your Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Dx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654498/pokemon-me01-mega-evolution-mega-gardevoir-ex---159-132",
+            "prices": {
+                "market": 9.51,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 9.51,
+                        "listings": 840,
+                        "priceString": "$9.51"
+                    },
+                    "Lightly Played": {
+                        "price": 12.28,
+                        "listings": 30,
+                        "priceString": "$12.28"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 9.51,
+                            "listings": 840,
+                            "priceString": "$9.51"
+                        },
+                        "Lightly Played": {
+                            "price": 12.28,
+                            "listings": 30,
+                            "priceString": "$12.28"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:01.292Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654498_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:01.292Z",
+            "createdAt": "2025-09-27T02:00:46.039Z",
+            "updatedAt": "2025-10-29T04:46:01.356Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e131",
+            "tcgPlayerId": "654497",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Manectric ex - 158/132",
+            "cardNumber": "158",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Lightning",
+            "hp": 330,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "L",
+                        "L"
+                    ],
+                    "name": "Flash Ray",
+                    "damage": "120",
+                    "text": "During your opponent's next turn, prevent all damage done to this Pokemon by attacks from Basic Pokemon."
+                },
+                {
+                    "cost": [
+                        "L",
+                        "L",
+                        "L"
+                    ],
+                    "name": "Riotous Blasting",
+                    "damage": "200+",
+                    "text": "You may discard all Energy from this Pokemon and have this attack do 130 more damage."
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654497/pokemon-me01-mega-evolution-mega-manectric-ex---158-132",
+            "prices": {
+                "market": 3.8,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.8,
+                        "listings": 802,
+                        "priceString": "$3.80"
+                    },
+                    "Lightly Played": {
+                        "price": 5.32,
+                        "listings": 27,
+                        "priceString": "$5.32"
+                    },
+                    "Damaged": {
+                        "price": 2,
+                        "listings": 2,
+                        "priceString": "$2.00"
+                    },
+                    "Moderately Played": {
+                        "price": 9.99,
+                        "listings": 1,
+                        "priceString": "$9.99"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.8,
+                            "listings": 802,
+                            "priceString": "$3.80"
+                        },
+                        "Lightly Played": {
+                            "price": 5.32,
+                            "listings": 27,
+                            "priceString": "$5.32"
+                        },
+                        "Damaged": {
+                            "price": 2,
+                            "listings": 2,
+                            "priceString": "$2.00"
+                        },
+                        "Moderately Played": {
+                            "price": 9.99,
+                            "listings": 1,
+                            "priceString": "$9.99"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:06.294Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654497_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:06.294Z",
+            "createdAt": "2025-09-27T02:00:46.079Z",
+            "updatedAt": "2025-10-29T04:46:06.365Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e134",
+            "tcgPlayerId": "654496",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Abomasnow ex - 157/132",
+            "cardNumber": "157",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Water",
+            "hp": 350,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "W",
+                        "W"
+                    ],
+                    "name": "Hammer-lanche",
+                    "damage": "100x",
+                    "text": "Discard the top 6 cards of your deck, and this attack does 100 damage for each Basic Water Energy card that you discarded in this way."
+                },
+                {
+                    "cost": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "name": "Frost Barrier",
+                    "damage": "200",
+                    "text": "During your opponent's next turn, this Pokemon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+                }
+            ],
+            "weakness": {
+                "type": "Mx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654496/pokemon-me01-mega-evolution-mega-abomasnow-ex---157-132",
+            "prices": {
+                "market": 3.37,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.37,
+                        "listings": 906,
+                        "priceString": "$3.37"
+                    },
+                    "Lightly Played": {
+                        "price": 4.48,
+                        "listings": 27,
+                        "priceString": "$4.48"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.37,
+                            "listings": 906,
+                            "priceString": "$3.37"
+                        },
+                        "Lightly Played": {
+                            "price": 4.48,
+                            "listings": 27,
+                            "priceString": "$4.48"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:10.151Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654496_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:10.151Z",
+            "createdAt": "2025-09-27T02:00:46.117Z",
+            "updatedAt": "2025-10-29T04:46:10.217Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e137",
+            "tcgPlayerId": "654495",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Camerupt ex - 156/132",
+            "cardNumber": "156",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Fire",
+            "hp": 340,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "R"
+                    ],
+                    "name": "Roasting Heat",
+                    "damage": "80+",
+                    "text": "If your opponent's Active Pokemon is Burned, this attack does 160 more damage."
+                },
+                {
+                    "cost": [
+                        "R",
+                        "C",
+                        "C",
+                        "C"
+                    ],
+                    "name": "Volcanic Meteor",
+                    "damage": "280",
+                    "text": "Discard 2 Energy from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Wx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654495/pokemon-me01-mega-evolution-mega-camerupt-ex---156-132",
+            "prices": {
+                "market": 3.07,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.07,
+                        "listings": 854,
+                        "priceString": "$3.07"
+                    },
+                    "Lightly Played": {
+                        "price": 3.77,
+                        "listings": 25,
+                        "priceString": "$3.77"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.07,
+                            "listings": 854,
+                            "priceString": "$3.07"
+                        },
+                        "Lightly Played": {
+                            "price": 3.77,
+                            "listings": 25,
+                            "priceString": "$3.77"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:14.068Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654495_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:14.068Z",
+            "createdAt": "2025-09-27T02:00:46.154Z",
+            "updatedAt": "2025-10-29T04:46:14.136Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e13a",
+            "tcgPlayerId": "654494",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Mega Venusaur ex - 155/132",
+            "cardNumber": "155",
+            "totalSetNumber": "132",
+            "rarity": "Ultra Rare",
+            "cardType": "Grass",
+            "hp": 380,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "G",
+                        "G",
+                        "G",
+                        "G"
+                    ],
+                    "name": "Jungle Dump",
+                    "damage": "240",
+                    "text": "Heal 30 damage from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Rx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654494/pokemon-me01-mega-evolution-mega-venusaur-ex---155-132",
+            "prices": {
+                "market": 16.89,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 16.89,
+                        "listings": 1049,
+                        "priceString": "$16.89"
+                    },
+                    "Lightly Played": {
+                        "price": 19.79,
+                        "listings": 39,
+                        "priceString": "$19.79"
+                    },
+                    "Moderately Played": {
+                        "price": 14,
+                        "listings": 1,
+                        "priceString": "$14.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 16.89,
+                            "listings": 1049,
+                            "priceString": "$16.89"
+                        },
+                        "Lightly Played": {
+                            "price": 19.79,
+                            "listings": 39,
+                            "priceString": "$19.79"
+                        },
+                        "Moderately Played": {
+                            "price": 14,
+                            "listings": 1,
+                            "priceString": "$14.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:17.277Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654494_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:17.277Z",
+            "createdAt": "2025-09-27T02:00:46.191Z",
+            "updatedAt": "2025-10-29T04:46:17.347Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e13d",
+            "tcgPlayerId": "654493",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Stufful - 154/132",
+            "cardNumber": "154",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Colorless",
+            "hp": 70,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Light Punch",
+                    "damage": "10",
+                    "text": null
+                },
+                {
+                    "cost": [
+                        "C",
+                        "C"
+                    ],
+                    "name": "Flop",
+                    "damage": "20",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654493/pokemon-me01-mega-evolution-stufful---154-132",
+            "prices": {
+                "market": 5.76,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 5.76,
+                        "listings": 1155,
+                        "priceString": "$5.76"
+                    },
+                    "Lightly Played": {
+                        "price": 7.88,
+                        "listings": 50,
+                        "priceString": "$7.88"
+                    },
+                    "Moderately Played": {
+                        "price": 5,
+                        "listings": 1,
+                        "priceString": "$5.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 5.76,
+                            "listings": 1155,
+                            "priceString": "$5.76"
+                        },
+                        "Lightly Played": {
+                            "price": 7.88,
+                            "listings": 50,
+                            "priceString": "$7.88"
+                        },
+                        "Moderately Played": {
+                            "price": 5,
+                            "listings": 1,
+                            "priceString": "$5.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:20.923Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654493_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:20.923Z",
+            "createdAt": "2025-09-27T02:00:46.233Z",
+            "updatedAt": "2025-10-29T04:46:20.996Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e140",
+            "tcgPlayerId": "654492",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Gumshoos - 153/132",
+            "cardNumber": "153",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Colorless",
+            "hp": 100,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "C",
+                        "C"
+                    ],
+                    "name": "Bite",
+                    "damage": "50",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654492/pokemon-me01-mega-evolution-gumshoos---153-132",
+            "prices": {
+                "market": 5.48,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 5.48,
+                        "listings": 1296,
+                        "priceString": "$5.48"
+                    },
+                    "Lightly Played": {
+                        "price": 7.81,
+                        "listings": 52,
+                        "priceString": "$7.81"
+                    },
+                    "Moderately Played": {
+                        "price": 8.74,
+                        "listings": 4,
+                        "priceString": "$8.74"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 5.48,
+                            "listings": 1296,
+                            "priceString": "$5.48"
+                        },
+                        "Lightly Played": {
+                            "price": 7.81,
+                            "listings": 52,
+                            "priceString": "$7.81"
+                        },
+                        "Moderately Played": {
+                            "price": 8.74,
+                            "listings": 4,
+                            "priceString": "$8.74"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:25.459Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654492_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:25.459Z",
+            "createdAt": "2025-09-27T02:00:46.271Z",
+            "updatedAt": "2025-10-29T04:46:25.533Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e143",
+            "tcgPlayerId": "654491",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Delibird - 152/132",
+            "cardNumber": "152",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Colorless",
+            "hp": 90,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C",
+                        "C"
+                    ],
+                    "name": "Gentle Slap",
+                    "damage": "30",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Lx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654491/pokemon-me01-mega-evolution-delibird---152-132",
+            "prices": {
+                "market": 2.68,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.68,
+                        "listings": 1070,
+                        "priceString": "$2.68"
+                    },
+                    "Lightly Played": {
+                        "price": 3.35,
+                        "listings": 31,
+                        "priceString": "$3.35"
+                    },
+                    "Damaged": {
+                        "price": 2,
+                        "listings": 1,
+                        "priceString": "$2.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.68,
+                            "listings": 1070,
+                            "priceString": "$2.68"
+                        },
+                        "Lightly Played": {
+                            "price": 3.35,
+                            "listings": 31,
+                            "priceString": "$3.35"
+                        },
+                        "Damaged": {
+                            "price": 2,
+                            "listings": 1,
+                            "priceString": "$2.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:30.207Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654491_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:30.207Z",
+            "createdAt": "2025-09-27T02:00:46.312Z",
+            "updatedAt": "2025-10-29T04:46:30.274Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e146",
+            "tcgPlayerId": "654490",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Spearow - 151/132",
+            "cardNumber": "151",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Colorless",
+            "hp": 60,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Pluck",
+                    "damage": "10",
+                    "text": "Before doing damage, discard all Pokemon Tools from your opponent's Active Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Lx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654490/pokemon-me01-mega-evolution-spearow---151-132",
+            "prices": {
+                "market": 4.18,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 4.18,
+                        "listings": 1148,
+                        "priceString": "$4.18"
+                    },
+                    "Lightly Played": {
+                        "price": 4.77,
+                        "listings": 50,
+                        "priceString": "$4.77"
+                    },
+                    "Damaged": {
+                        "price": 2.58,
+                        "listings": 2,
+                        "priceString": "$2.58"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 4.18,
+                            "listings": 1148,
+                            "priceString": "$4.18"
+                        },
+                        "Lightly Played": {
+                            "price": 4.77,
+                            "listings": 50,
+                            "priceString": "$4.77"
+                        },
+                        "Damaged": {
+                            "price": 2.58,
+                            "listings": 2,
+                            "priceString": "$2.58"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:34.512Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654490_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:34.512Z",
+            "createdAt": "2025-09-27T02:00:46.357Z",
+            "updatedAt": "2025-10-29T04:46:34.586Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e149",
+            "tcgPlayerId": "654489",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Steelix - 150/132",
+            "cardNumber": "150",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Metal",
+            "hp": 200,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "C",
+                        "C"
+                    ],
+                    "name": "Welcoming Tail",
+                    "damage": "40+",
+                    "text": "If you have exactly 6 Prize cards remaining, this attack does 200 more damage."
+                },
+                {
+                    "cost": [
+                        "M",
+                        "M",
+                        "C",
+                        "C"
+                    ],
+                    "name": "Skull Bash",
+                    "damage": "140",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Rx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "G",
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654489/pokemon-me01-mega-evolution-steelix---150-132",
+            "prices": {
+                "market": 10.73,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 10.73,
+                        "listings": 846,
+                        "priceString": "$10.73"
+                    },
+                    "Lightly Played": {
+                        "price": 13.85,
+                        "listings": 30,
+                        "priceString": "$13.85"
+                    },
+                    "Damaged": {
+                        "price": 7.56,
+                        "listings": 1,
+                        "priceString": "$7.56"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 10.73,
+                            "listings": 846,
+                            "priceString": "$10.73"
+                        },
+                        "Lightly Played": {
+                            "price": 13.85,
+                            "listings": 30,
+                            "priceString": "$13.85"
+                        },
+                        "Damaged": {
+                            "price": 7.56,
+                            "listings": 1,
+                            "priceString": "$7.56"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T18:45:02.622Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654489_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 75,
+            "lastScrapedAt": "2025-10-29T18:45:02.622Z",
+            "createdAt": "2025-09-27T02:00:46.395Z",
+            "updatedAt": "2025-10-29T18:45:02.704Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e14c",
+            "tcgPlayerId": "654488",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Shroodle - 149/132",
+            "cardNumber": "149",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Darkness",
+            "hp": 60,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "D",
+                        "C"
+                    ],
+                    "name": "Poison Jab",
+                    "damage": "20",
+                    "text": "Your opponent's Active Pokemon is now Poisoned."
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654488/pokemon-me01-mega-evolution-shroodle---149-132",
+            "prices": {
+                "market": 2.17,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.17,
+                        "listings": 1005,
+                        "priceString": "$2.17"
+                    },
+                    "Lightly Played": {
+                        "price": 3.05,
+                        "listings": 42,
+                        "priceString": "$3.05"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.17,
+                            "listings": 1005,
+                            "priceString": "$2.17"
+                        },
+                        "Lightly Played": {
+                            "price": 3.05,
+                            "listings": 42,
+                            "priceString": "$3.05"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:39.301Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654488_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:39.301Z",
+            "createdAt": "2025-09-27T02:00:46.436Z",
+            "updatedAt": "2025-10-29T04:46:39.372Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e14f",
+            "tcgPlayerId": "654487",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Spiritomb - 148/132",
+            "cardNumber": "148",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Darkness",
+            "hp": 80,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "D"
+                    ],
+                    "name": "Mountain Breaker",
+                    "damage": "10",
+                    "text": "Discard the top card of your opponent's deck."
+                }
+            ],
+            "weakness": {
+                "type": "Gx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654487/pokemon-me01-mega-evolution-spiritomb---148-132",
+            "prices": {
+                "market": 3.41,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.41,
+                        "listings": 898,
+                        "priceString": "$3.41"
+                    },
+                    "Lightly Played": {
+                        "price": 4.47,
+                        "listings": 25,
+                        "priceString": "$4.47"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.41,
+                            "listings": 898,
+                            "priceString": "$3.41"
+                        },
+                        "Lightly Played": {
+                            "price": 4.47,
+                            "listings": 25,
+                            "priceString": "$4.47"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:43.630Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654487_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:43.630Z",
+            "createdAt": "2025-09-27T02:00:46.476Z",
+            "updatedAt": "2025-10-29T04:46:43.699Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e152",
+            "tcgPlayerId": "654486",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Garganacl - 147/132",
+            "cardNumber": "147",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Fighting",
+            "hp": 180,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "F",
+                        "F",
+                        "C"
+                    ],
+                    "name": "Hammer In",
+                    "damage": "130",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Gx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 4,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654486/pokemon-me01-mega-evolution-garganacl---147-132",
+            "prices": {
+                "market": 1.41,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 1.41,
+                        "listings": 1117,
+                        "priceString": "$1.41"
+                    },
+                    "Lightly Played": {
+                        "price": 2.25,
+                        "listings": 36,
+                        "priceString": "$2.25"
+                    },
+                    "Moderately Played": {
+                        "price": 2.1,
+                        "listings": 2,
+                        "priceString": "$2.10"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 1.41,
+                            "listings": 1117,
+                            "priceString": "$1.41"
+                        },
+                        "Lightly Played": {
+                            "price": 2.25,
+                            "listings": 36,
+                            "priceString": "$2.25"
+                        },
+                        "Moderately Played": {
+                            "price": 2.1,
+                            "listings": 2,
+                            "priceString": "$2.10"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:50:59.394Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654486_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:50:59.394Z",
+            "createdAt": "2025-09-27T02:00:46.519Z",
+            "updatedAt": "2025-10-28T17:50:59.477Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e155",
+            "tcgPlayerId": "654485",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Marshadow - 146/132",
+            "cardNumber": "146",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Fighting",
+            "hp": 90,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "F",
+                        "F"
+                    ],
+                    "name": "Shadowy Side Kick",
+                    "damage": "60",
+                    "text": "If your opponent's Pokemon is Knocked Out by damage from this attack, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Px",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654485/pokemon-me01-mega-evolution-marshadow---146-132",
+            "prices": {
+                "market": 28.31,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 28.31,
+                        "listings": 916,
+                        "priceString": "$28.31"
+                    },
+                    "Lightly Played": {
+                        "price": 41.87,
+                        "listings": 21,
+                        "priceString": "$41.87"
+                    },
+                    "Damaged": {
+                        "price": 25,
+                        "listings": 1,
+                        "priceString": "$25.00"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 28.31,
+                            "listings": 916,
+                            "priceString": "$28.31"
+                        },
+                        "Lightly Played": {
+                            "price": 41.87,
+                            "listings": 21,
+                            "priceString": "$41.87"
+                        },
+                        "Damaged": {
+                            "price": 25,
+                            "listings": 1,
+                            "priceString": "$25.00"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-29T04:46:54.925Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654485_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-29T04:46:54.925Z",
+            "createdAt": "2025-09-27T02:00:46.559Z",
+            "updatedAt": "2025-10-29T04:46:54.996Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e158",
+            "tcgPlayerId": "654484",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Houndstone - 145/132",
+            "cardNumber": "145",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Psychic",
+            "hp": 140,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "P"
+                    ],
+                    "name": "Horrifying Bite",
+                    "damage": "30",
+                    "text": "Flip a coin until you get tails. For each heads, choose a random card from your opponent's hand. Your opponent reveals those cards and shuffles them into their deck."
+                },
+                {
+                    "cost": [
+                        "P",
+                        "P",
+                        "C"
+                    ],
+                    "name": "Hammer In",
+                    "damage": "130",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Dx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": 3,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654484/pokemon-me01-mega-evolution-houndstone---145-132",
+            "prices": {
+                "market": 3.27,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.27,
+                        "listings": 924,
+                        "priceString": "$3.27"
+                    },
+                    "Lightly Played": {
+                        "price": 4.15,
+                        "listings": 41,
+                        "priceString": "$4.15"
+                    },
+                    "Moderately Played": {
+                        "price": 4.1,
+                        "listings": 1,
+                        "priceString": "$4.10"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.27,
+                            "listings": 924,
+                            "priceString": "$3.27"
+                        },
+                        "Lightly Played": {
+                            "price": 4.15,
+                            "listings": 41,
+                            "priceString": "$4.15"
+                        },
+                        "Moderately Played": {
+                            "price": 4.1,
+                            "listings": 1,
+                            "priceString": "$4.10"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:03.593Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654484_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:03.593Z",
+            "createdAt": "2025-09-27T02:00:46.599Z",
+            "updatedAt": "2025-10-28T17:51:03.674Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e15b",
+            "tcgPlayerId": "654483",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Shedinja - 144/132",
+            "cardNumber": "144",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Psychic",
+            "hp": 60,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "P"
+                    ],
+                    "name": "Damage Beat",
+                    "damage": "20x",
+                    "text": "This attack does 20 damage for each damage counter on your opponent's Active Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Dx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": "F",
+                "value": null
+            },
+            "retreatCost": null,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654483/pokemon-me01-mega-evolution-shedinja---144-132",
+            "prices": {
+                "market": 3.12,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.12,
+                        "listings": 1165,
+                        "priceString": "$3.12"
+                    },
+                    "Lightly Played": {
+                        "price": 4.19,
+                        "listings": 60,
+                        "priceString": "$4.19"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.12,
+                            "listings": 1165,
+                            "priceString": "$3.12"
+                        },
+                        "Lightly Played": {
+                            "price": 4.19,
+                            "listings": 60,
+                            "priceString": "$4.19"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:07.632Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654483_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:07.632Z",
+            "createdAt": "2025-09-27T02:00:46.640Z",
+            "updatedAt": "2025-10-28T17:51:07.712Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e15e",
+            "tcgPlayerId": "654482",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Helioptile - 143/132",
+            "cardNumber": "143",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Lightning",
+            "hp": 70,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Double Scratch",
+                    "damage": "10x",
+                    "text": "Flip 2 coins. This attack does 10 damage for each heads."
+                }
+            ],
+            "weakness": {
+                "type": "Fx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654482/pokemon-me01-mega-evolution-helioptile---143-132",
+            "prices": {
+                "market": 3.63,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.63,
+                        "listings": 1170,
+                        "priceString": "$3.63"
+                    },
+                    "Lightly Played": {
+                        "price": 4.88,
+                        "listings": 48,
+                        "priceString": "$4.88"
+                    },
+                    "Moderately Played": {
+                        "price": 3.02,
+                        "listings": 2,
+                        "priceString": "$3.02"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.63,
+                            "listings": 1170,
+                            "priceString": "$3.63"
+                        },
+                        "Lightly Played": {
+                            "price": 4.88,
+                            "listings": 48,
+                            "priceString": "$4.88"
+                        },
+                        "Moderately Played": {
+                            "price": 3.02,
+                            "listings": 2,
+                            "priceString": "$3.02"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:11.168Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654482_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:11.168Z",
+            "createdAt": "2025-09-27T02:00:46.682Z",
+            "updatedAt": "2025-10-28T17:51:11.248Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e161",
+            "tcgPlayerId": "654481",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Inteleon - 142/132",
+            "cardNumber": "142",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Water",
+            "hp": 150,
+            "stage": "Stage 2",
+            "attacks": [
+                {
+                    "cost": [
+                        "W"
+                    ],
+                    "name": "Bring Down Choose a Pokemon in play",
+                    "damage": "yours or your opponent's",
+                    "text": "that has the least HP remaining, except for this Pokemon, and it is Knocked Out."
+                },
+                {
+                    "cost": [
+                        "W"
+                    ],
+                    "name": "Water Shot",
+                    "damage": "110",
+                    "text": "Discard an Energy from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Lx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654481/pokemon-me01-mega-evolution-inteleon---142-132",
+            "prices": {
+                "market": 3.63,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.63,
+                        "listings": 922,
+                        "priceString": "$3.63"
+                    },
+                    "Lightly Played": {
+                        "price": 4.33,
+                        "listings": 46,
+                        "priceString": "$4.33"
+                    },
+                    "Damaged": {
+                        "price": 2.99,
+                        "listings": 1,
+                        "priceString": "$2.99"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.63,
+                            "listings": 922,
+                            "priceString": "$3.63"
+                        },
+                        "Lightly Played": {
+                            "price": 4.33,
+                            "listings": 46,
+                            "priceString": "$4.33"
+                        },
+                        "Damaged": {
+                            "price": 2.99,
+                            "listings": 1,
+                            "priceString": "$2.99"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:14.852Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654481_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:14.852Z",
+            "createdAt": "2025-09-27T02:00:46.724Z",
+            "updatedAt": "2025-10-28T17:51:14.936Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e164",
+            "tcgPlayerId": "654480",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Clawitzer - 141/132",
+            "cardNumber": "141",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Water",
+            "hp": 130,
+            "stage": "Stage 1",
+            "attacks": [
+                {
+                    "cost": [
+                        "W",
+                        "W",
+                        "W"
+                    ],
+                    "name": "Aqua Launcher",
+                    "damage": "210",
+                    "text": "Discard all Energy from this Pokemon."
+                }
+            ],
+            "weakness": {
+                "type": "Lx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654480/pokemon-me01-mega-evolution-clawitzer---141-132",
+            "prices": {
+                "market": 2.08,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.08,
+                        "listings": 1137,
+                        "priceString": "$2.08"
+                    },
+                    "Lightly Played": {
+                        "price": 2.86,
+                        "listings": 55,
+                        "priceString": "$2.86"
+                    },
+                    "Moderately Played": {
+                        "price": 2.56,
+                        "listings": 2,
+                        "priceString": "$2.56"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.08,
+                            "listings": 1137,
+                            "priceString": "$2.08"
+                        },
+                        "Lightly Played": {
+                            "price": 2.86,
+                            "listings": 55,
+                            "priceString": "$2.86"
+                        },
+                        "Moderately Played": {
+                            "price": 2.56,
+                            "listings": 2,
+                            "priceString": "$2.56"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:19.284Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654480_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:19.284Z",
+            "createdAt": "2025-09-27T02:00:46.765Z",
+            "updatedAt": "2025-10-28T17:51:19.364Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e167",
+            "tcgPlayerId": "654479",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Snover - 140/132",
+            "cardNumber": "140",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Water",
+            "hp": 90,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "W"
+                    ],
+                    "name": "Beat",
+                    "damage": "10",
+                    "text": null
+                },
+                {
+                    "cost": [
+                        "W",
+                        "W"
+                    ],
+                    "name": "Icy Snow",
+                    "damage": "30",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Mx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 3,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654479/pokemon-me01-mega-evolution-snover---140-132",
+            "prices": {
+                "market": 2.62,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 2.62,
+                        "listings": 1123,
+                        "priceString": "$2.62"
+                    },
+                    "Lightly Played": {
+                        "price": 3.19,
+                        "listings": 40,
+                        "priceString": "$3.19"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 2.62,
+                            "listings": 1123,
+                            "priceString": "$2.62"
+                        },
+                        "Lightly Played": {
+                            "price": 3.19,
+                            "listings": 40,
+                            "priceString": "$3.19"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:23.575Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654479_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:23.575Z",
+            "createdAt": "2025-09-27T02:00:46.807Z",
+            "updatedAt": "2025-10-28T17:51:23.651Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e16a",
+            "tcgPlayerId": "654478",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Litleo - 139/132",
+            "cardNumber": "139",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Fire",
+            "hp": 70,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "R",
+                        "C"
+                    ],
+                    "name": "Flare",
+                    "damage": "30",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Wx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 2,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654478/pokemon-me01-mega-evolution-litleo---139-132",
+            "prices": {
+                "market": 3.94,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 3.94,
+                        "listings": 1123,
+                        "priceString": "$3.94"
+                    },
+                    "Lightly Played": {
+                        "price": 4.58,
+                        "listings": 65,
+                        "priceString": "$4.58"
+                    },
+                    "Moderately Played": {
+                        "price": 5.51,
+                        "listings": 3,
+                        "priceString": "$5.51"
+                    },
+                    "Damaged": {
+                        "price": 4.51,
+                        "listings": 2,
+                        "priceString": "$4.51"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 3.94,
+                            "listings": 1123,
+                            "priceString": "$3.94"
+                        },
+                        "Lightly Played": {
+                            "price": 4.58,
+                            "listings": 65,
+                            "priceString": "$4.58"
+                        },
+                        "Moderately Played": {
+                            "price": 5.51,
+                            "listings": 3,
+                            "priceString": "$5.51"
+                        },
+                        "Damaged": {
+                            "price": 4.51,
+                            "listings": 2,
+                            "priceString": "$4.51"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:26.879Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654478_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:26.879Z",
+            "createdAt": "2025-09-27T02:00:46.851Z",
+            "updatedAt": "2025-10-28T17:51:26.958Z"
+        },
+        {
+            "id": "68d7454eb16060afad13e16d",
+            "tcgPlayerId": "654477",
+            "setId": "68cc2d9c7d3e6e7d391a6716",
+            "setName": "Mega Evolution",
+            "name": "Vulpix - 138/132",
+            "cardNumber": "138",
+            "totalSetNumber": "132",
+            "rarity": "Illustration Rare",
+            "cardType": "Fire",
+            "hp": 70,
+            "stage": "Basic",
+            "attacks": [
+                {
+                    "cost": [
+                        "C"
+                    ],
+                    "name": "Stampede",
+                    "damage": "10",
+                    "text": null
+                },
+                {
+                    "cost": [
+                        "R",
+                        "C"
+                    ],
+                    "name": "Combustion",
+                    "damage": "20",
+                    "text": null
+                }
+            ],
+            "weakness": {
+                "type": "Wx",
+                "value": "2"
+            },
+            "resistance": {
+                "type": null,
+                "value": null
+            },
+            "retreatCost": 1,
+            "artist": null,
+            "tcgPlayerUrl": "https://www.tcgplayer.com/product/654477/pokemon-me01-mega-evolution-vulpix---138-132",
+            "prices": {
+                "market": 18.85,
+                "listings": null,
+                "primaryCondition": "Near Mint",
+                "conditions": {
+                    "Near Mint": {
+                        "price": 18.85,
+                        "listings": 826,
+                        "priceString": "$18.85"
+                    },
+                    "Lightly Played": {
+                        "price": 22.31,
+                        "listings": 46,
+                        "priceString": "$22.31"
+                    },
+                    "Damaged": {
+                        "price": 15.57,
+                        "listings": 1,
+                        "priceString": "$15.57"
+                    }
+                },
+                "variants": {
+                    "Holofoil": {
+                        "Near Mint": {
+                            "price": 18.85,
+                            "listings": 826,
+                            "priceString": "$18.85"
+                        },
+                        "Lightly Played": {
+                            "price": 22.31,
+                            "listings": 46,
+                            "priceString": "$22.31"
+                        },
+                        "Damaged": {
+                            "price": 15.57,
+                            "listings": 1,
+                            "priceString": "$15.57"
+                        }
+                    }
+                },
+                "lastUpdated": "2025-10-28T17:51:32.746Z",
+                "priceWasCorrected": false
+            },
+            "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/654477_in_600x600.jpg",
+            "needsDetailedScrape": false,
+            "dataCompleteness": 100,
+            "lastScrapedAt": "2025-10-28T17:51:32.746Z",
+            "createdAt": "2025-09-27T02:00:46.890Z",
+            "updatedAt": "2025-10-28T17:51:32.828Z"
+        }
+    ],
+    "metadata": {
+        "total": 187,
+        "count": 50,
+        "limit": 50,
+        "offset": 0,
+        "hasMore": true,
+        "includes": {
+            "priceHistory": false,
+            "ebayData": false
+        },
+        "historyWindow": {
+            "days": 3,
+            "from": "2025-10-26",
+            "to": "2025-10-29"
+        },
+        "apiCallsConsumed": {
+            "total": 50,
+            "breakdown": {
+                "cards": 50,
+                "history": 0,
+                "ebay": 0
+            },
+            "costPerCard": 1
+        },
+        "planRestrictions": {
+            "message": "Free plan limited to 3 days of historical data. Upgrade to API plan for full history access.",
+            "limitedTo": "3 days"
+        }
+    }
+}
